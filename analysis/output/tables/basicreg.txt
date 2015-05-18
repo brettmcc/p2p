@@ -1,0 +1,18 @@
+	(1)	(2)	(3)	(4)
+VARIABLES	loan_app	loan_app	loan_app_zip3	loan_app_zip3
+				
+mailvolume_state_sum	0.000223***			
+	(1.94e-08)			
+mailvolume_state_avg		-10.70***		
+		(0.0779)		
+mailvolume_zip3_sum			0.000199***	
+			(8.19e-08)	
+mailvolume_zip3_avg				0.645***
+				(0.00192)
+Constant	-2,755***	808,053***	1,752***	-25,779***
+	(21.96)	(4,447)	(4.857)	(110.0)
+				
+Observations	3,854,404	3,854,404	3,852,334	3,852,334
+R-squared	0.972	0.005	0.606	0.028
+Standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

@@ -1,0 +1,21 @@
+# Data files #
+##############
+*.csv
+*.dta
+*.xls
+*.xlsx
+*.xlsm
+
+# Output files #
+################
+*.pdf
+*.log
+
+# Temp Files #
+##############
+temp/
+
+### Linux ###
+*~
+
+

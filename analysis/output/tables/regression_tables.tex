@@ -1,0 +1,33 @@
+\documentclass[12pt, final]{article}
+\usepackage{fullpage,amsthm,amsfonts,amsmath}
+\usepackage{enumerate}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{epsfig}
+\usepackage{epstopdf}
+\usepackage{datatool}
+\usepackage{array}
+\usepackage{tabu}
+\usepackage{amsmath}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{tabularx, booktabs}
+\usepackage{pdfpages}
+\usepackage{standalone}
+\usepackage{hyperref}
+\usepackage{etoolbox}
+\usepackage{multirow}
+\hypersetup{colorlinks = true, urlcolor = blue, filecolor = blue, linkcolor = blue}
+\floatstyle{plaintop}
+\restylefloat{table}
+%\renewcommand{\thefootnote}{$\star$} 
+\begin{document}
+\begin{footnotesize}
+\input{myreg.tex}
+\end{footnotesize}
+
+\begin{footnotesize}
+\input{basicreg.tex}
+\end{footnotesize}
+
+\end{document}

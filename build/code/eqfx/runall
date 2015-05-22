@@ -1,0 +1,4 @@
+echo Rename, recode, and label variables
+stata-mp -b clean_efx.do
+echo Aggregate from individual to state/3-digit zip code level
+stata-mp -b agg_efx.do

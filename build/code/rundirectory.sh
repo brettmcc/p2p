@@ -20,4 +20,5 @@ stata-mp -b clean_mintel_data.do
 #Create Lending Club With Mintel Final Output
 stata-mp -b create_lc_final_output.do
 
-
+#Run Equifax Files (clean and then aggregate to state/zip)
+./eqfx/runall

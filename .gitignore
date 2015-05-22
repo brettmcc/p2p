@@ -5,6 +5,8 @@
 *.xls
 *.xlsx
 *.xlsm
+*.bz2*
+*.gz
 
 # Output files #
 ################
@@ -17,5 +19,4 @@ temp/
 
 ### Linux ###
 *~
-
 

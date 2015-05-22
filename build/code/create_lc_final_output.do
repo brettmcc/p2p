@@ -1,7 +1,7 @@
 /******************************************************************************/
 /*This Do-File Contains Scripts for our project on Peer to Peer Lending. The
   data sets we are currently using are publicly available data from Lending Club
-  along with proprietary Mintel Compremedia data on credit card offers        */
+  along with proprietary Mintel Compremedia data on credit offers        */
 /*Authors:
          Brett Mccully
 	 Vincent La

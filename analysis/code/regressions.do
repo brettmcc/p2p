@@ -8,7 +8,7 @@
 clear
 set more off
 
-cd "/fof/ra_work/vincent/research/ptplending"
+cd "/fof/scratch-m1vxl00/ptplending"
 
 use "./build/output/lendingclub_clean", clear
 

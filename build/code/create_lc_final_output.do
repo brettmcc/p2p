@@ -13,7 +13,7 @@
 clear
 set more off
 
-cd "/fof/ra_work/vincent/research/ptplending"
+cd "/fof/scratch-m1vxl00/ptplending"
 
 /*Do some cleaning of the lendingclub data*/
 use "./build/temp/lendingclub", clear

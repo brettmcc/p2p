@@ -2,7 +2,7 @@
 /**************************Create Average Fico Score By State US Pop*********/
 /****************************************************************************/
 /*Source: http://www.credit-report-101.com/credit-score/average-fico-score.html#Distribution*/
-cd "/fof/ra_work/vincent/research/ptplending"
+cd "/fof/scratch-m1vxl00/ptplending"
 
 set more off 
 clear

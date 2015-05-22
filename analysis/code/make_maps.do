@@ -4,7 +4,7 @@
 clear
 set more off
 	
-cd "/fof/ra_work/vincent/research/ptplending"
+cd "/fof/scratch-m1vxl00/ptplending"
 
 /*Shape File Downloaded from:*/
 shp2dta using ./analysis/input/s_16de14.shp, database(./analysis/temp/usdb) coordinates(./analysis/temp/uscoord) genid(id) replace

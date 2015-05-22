@@ -1,7 +1,7 @@
 /******************************************************************************/
 /*******************Exploring Mintel Data**************************************/
 /******************************************************************************/
-cd "/fof/ra_work/vincent/research/ptplending"
+cd "/fof/scratch-m1vxl00/ptplending"
 
 use "/a/nas1/space/fof.scratch/vincent/mintel/data/current.dta", clear
 
